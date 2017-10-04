@@ -15,11 +15,11 @@
 	<form method='POST' action='doaddarticle.php'  enctype="multipart/form-data">
 	<table class="tablelist" >
 		<tr>
-			<td style='text-align:center;'>标题11111：</td>
+			<td style='text-align:center;'>标题：</td>
 			<td><input type='text' name='data[title]' id='title' style='height:30px;width:350px;'  /></td>
 		</tr>
 		<tr>
-			<td style='text-align:center;'>栏目11111111：</td>
+			<td style='text-align:center;'>栏目：</td>
 			<td>
 				<select name='data[category]' id='category' style='height:30px;'>
 					<option value=0>--请选择--</option>
