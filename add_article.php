@@ -52,11 +52,8 @@
 				<input type='submit' name='sub' value='提交' id='sub' style='width:50px;height:20px;' >
 			</td>
 		</tr>
-		
 	</table>
-	
 	</form>
-
 </div>
 <script>
 $(function(){
