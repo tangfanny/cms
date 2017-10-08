@@ -15,7 +15,7 @@
 	<form method='POST' action='doaddarticle.php'  enctype="multipart/form-data">
 	<table class="tablelist" >
 		<tr>
-			<td style='text-align:center;'>标题111111111111：</td>
+			<td style='text-align:center;'>标题111111：</td>
 			<td><input type='text' name='data[title]' id='title' style='height:30px;width:350px;'  /></td>
 		</tr>
 		<tr>
