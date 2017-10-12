@@ -19,7 +19,7 @@
 			<td><input type='text' name='data[title]' id='title' style='height:30px;width:350px;'  /></td>
 		</tr>
 		<tr>
-			<td style='text-align:center;'>栏目111：</td>
+			<td style='text-align:center;'>栏目11111：</td>
 			<td>
 				<select name='data[category]' id='category' style='height:30px;'>
 					<option value=0>--请选择--</option>
